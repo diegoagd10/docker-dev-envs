@@ -11,4 +11,4 @@ RUN sudo yum install -y java-1.8.0-openjdk-devel
 
 # Installing sbt
 RUN curl https://bintray.com/sbt/rpm/rpm | sudo tee /etc/yum.repos.d/bintray-sbt-rpm.repo
-RUN sudo yum install -y sbt-0.13
+RUN sudo yum install -y sbt-0.13.17
