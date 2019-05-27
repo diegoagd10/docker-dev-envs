@@ -6,7 +6,7 @@ All the images were created based on [Alpine Image](https://hub.docker.com/_/alp
 
 ## Available images
 
-* [Scala](scala/README.md)
+* [Scala](scala)
 
 ## References
 
