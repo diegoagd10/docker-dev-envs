@@ -6,7 +6,7 @@ Image for running Scala projects using SBT.
 
 [Docker Hub](https://hub.docker.com/r/diegoagd10/scala)
 
-## Compaling your code
+## Compiling your code
 
 ```
 docker run --rm -v "$(pwd)":/app -w /app -v ~/.sbt:/root/.sbt -v ~/.ivy2:/root/.ivy2 diegoagd10/scala sh -c 'sbt clean compile'
