@@ -2,7 +2,7 @@
 
 These images were created to avoid installing the development dependencies for running applications. In this way, we don't have to pass again for the installation process.
 
-All the images were created based on [Alpine Image](https://hub.docker.com/_/alpine) to save space on the disc.
+All the images were created on top of the [Alpine Image](https://hub.docker.com/_/alpine).
 
 ## Available images
 
